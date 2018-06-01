@@ -1,4 +1,4 @@
-import simpvent.exceptions
+import simpvent.exceptions as exceptions
 from types import FunctionType
 
 
