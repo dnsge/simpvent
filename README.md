@@ -35,6 +35,6 @@ manager.emit(6)
 ```
 
 Removing an event
-```
+```python
 manager.remove("first")
 ```
