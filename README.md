@@ -1,5 +1,6 @@
 # simpvent
 ### A simple event manager in python
+Easily create events
 
 Initializing the manager
 ```python
